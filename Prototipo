@@ -1,1 +1,21 @@
 Prototipo de GestBerry
+
+el prototipo debe tener lo siguente:
+
+Inicio de sesión
+La pantalla de inicio de sesión permite a los usuarios ingresar al sistema de acuerdo con su rol (trabajador, supervisor o administrador), asegurando control de accesos y una experiencia personalizada según permisos.
+
+Gestión de cuadrillas
+El prototipo presenta una sección para la visualización, asignación y modificación de cuadrillas. El administrador puede ver cuántos trabajadores hay por grupo y asignarlos a sectores específicos, lo que permite una distribución eficiente de recursos humanos.
+
+Cosechas
+La interfaz de cosechas permite registrar, editar y visualizar la producción diaria de cada trabajador o cuadrilla. Los campos son claros, y permiten ingresar información como fecha, peso cosechado y tipo de fruta.
+
+Pagos
+La sección de pagos muestra un historial detallado por trabajador, con cálculo automático basado en el rendimiento. Incluye filtros por fechas y exportación de reportes, lo que aporta transparencia y facilita el proceso contable.
+
+Reportes
+El prototipo incluye una sección para reportes y estadísticas, ofreciendo una visión general del rendimiento por día, por cuadrilla o individual, permitiendo tomar decisiones estratégicas de forma informada.
+
+Diseño adaptable
+El diseño es limpio y está orientado tanto a escritorio como a tabletas o dispositivos móviles. La interfaz está pensada para ser utilizada fácilmente incluso en terrenos de cosecha, con botones grandes y navegación sencilla.
